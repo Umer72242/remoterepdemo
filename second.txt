@@ -1,0 +1,1 @@
+demo for locally remote repository connecting to smartgit
